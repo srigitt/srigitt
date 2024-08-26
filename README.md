@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with advanced SQL queries, database design, and optimization techniques. Additionally, I’m interested in collaborating on solving complex data structures and algorithms (DSA) problems to refine my skills and tackle challenging computational problems.
 - 📫You can reach me through LinkedIn, Stack Overflow, Twitter, or GitHub for any collaboration opportunities or inquiries.
 - 😄 Pronouns: He/Him
--->I'm funny😄
+
